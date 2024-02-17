@@ -30,4 +30,6 @@ Once all three fields are filled in (if the one relating to passengers is not fi
 
 The goal of all this is to raise awareness of a topic that is too often overlooked. We don't have to give up travelling, but we can do it in a more conscious way, making more sustainable decisions and, if we have the possibility, donating small sums for activities and projects aimed at building a better future.
 
+All is possible thanks to the APIs of GoClimate (https://api.goclimate.com/docs) and to the APIs of port-api.com (https://port-api.com/redoc#tag/Airport).
+
 # Enjoy your flight -> https://flightfootprinttracker.netlify.app/
