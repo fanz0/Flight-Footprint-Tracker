@@ -15,8 +15,12 @@ Through “Flight Footprint Tracker” it is possible to calculate in a simple a
 
 On the home page of the site there is a small presentation and a form to fill out.
 There are three fields to fill in: the city of departure, the city of arrival and the number of passengers on the flight. When I search for the city using the "Cerca" button, a small menu will appear where I can choose the airport.
+![image1](https://github.com/fanz0/Flight-Footprint-Tracker/assets/99316714/1934064f-5f15-42ee-9a44-ba193af6d1be)
+
 
 Once all three fields are filled in (if the one relating to passengers is not filled in, only one passenger is taken into consideration), a screen will appear with various results:
+![image2](https://github.com/fanz0/Flight-Footprint-Tracker/assets/99316714/ffcd831f-599f-4e2d-8665-e63b9dcd8560)
+
 
 - CO₂ emissions from a single passenger.
 - CO₂ emissions of the entire flight, including all passengers.
